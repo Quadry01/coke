@@ -1,0 +1,16 @@
+.section2-section {
+  display: grid;
+  grid-template-columns: auto auto;
+  position: relative;
+  bottom: 320px;
+}
+
+.red-can-container {
+  display: inline-block;
+  width: 700px;
+  height: 750px;
+}
+.red-can {
+  height: 100%;
+  width: 100%;
+}

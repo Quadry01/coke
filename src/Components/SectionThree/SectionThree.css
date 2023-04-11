@@ -1,0 +1,18 @@
+.section-three-wrapper {
+  height: 700px;
+  width: 100%;
+  background-color: black;
+  position: relative;
+  bottom: 310px;
+}
+.coke-bg {
+  height: 400px;
+  position: relative;
+  top: 300px;
+}
+.caption-sec3 {
+  color: white;
+  position: absolute;
+  left: 45%;
+  top: 10%;
+}

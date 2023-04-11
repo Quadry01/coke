@@ -1,0 +1,24 @@
+.video-section {
+  height: 300px;
+  width: 600px;
+  position: relative;
+  display: inline;
+}
+.video-section video {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  z-index: 4;
+}
+.video-caption {
+  height: 300px;
+  width: 450px;
+  background-color: #e4dccf;
+  color: #002b5b;
+  position: relative;
+  bottom: 400px;
+  left: 100px;
+  z-index: 2;
+  border-radius: 30px;
+  opacity: 0.7;
+}
